@@ -1,0 +1,27 @@
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.mail{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.password{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn1{
+    margin-left:700px;
+}
+.select1{
+    padding-top:5px;
+    margin-left:120px;
+  }
+  .select2{
+    width:110px;
+    font-size: medium;
+    font-weight: bold;
+  }
